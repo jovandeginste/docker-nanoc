@@ -3,5 +3,6 @@
 This image contains Nanoc and a few extra gems that help to generate markdown including code snippets:
 * kramdown
 * coderay
+* readingtime
 
 Source image is ruby:latest
